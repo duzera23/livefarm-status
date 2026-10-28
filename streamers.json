@@ -25,12 +25,6 @@
       "displayName": "organismotv",
       "channels": [{ "platform": "twitch", "login": "organismotv" }],
       "badges": []
-    },
-    {
-      "id": "utanos",
-      "displayName": "utanos",
-      "channels": [{ "platform": "twitch", "login": "utanos" }],
-      "badges": ["own_store"]
     }
   ]
 }
