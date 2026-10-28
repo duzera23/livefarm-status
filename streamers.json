@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-28T00:00:00.000Z",
+  "streamers": [
+    {
+      "id": "tacamisera_boy",
+      "displayName": "tacamisera_boy",
+      "channels": [{ "platform": "twitch", "login": "tacamisera_boy" }],
+      "badges": []
+    },
+    {
+      "id": "maarcao_",
+      "displayName": "maarcao_",
+      "channels": [{ "platform": "twitch", "login": "maarcao_" }],
+      "badges": ["rubinot_partner", "own_store"]
+    },
+    {
+      "id": "durexlivexd",
+      "displayName": "durexlivexd",
+      "channels": [{ "platform": "twitch", "login": "durexlivexd" }],
+      "badges": ["rubinot_partner", "own_store"]
+    },
+    {
+      "id": "organismotv",
+      "displayName": "organismotv",
+      "channels": [{ "platform": "twitch", "login": "organismotv" }],
+      "badges": []
+    },
+    {
+      "id": "utanos",
+      "displayName": "utanos",
+      "channels": [{ "platform": "twitch", "login": "utanos" }],
+      "badges": ["own_store"]
+    }
+  ]
+}
