@@ -2,7 +2,7 @@
   "updatedAt": "2026-10-28T00:00:00.000Z",
   "streamers": {
     "camilakruso": { "isLive": true, "platform": "twitch" },
-    "minghetto": { "isLive": true, "platform": "twitch" },
+    "minghetto": { "isLive": false, "platform": "twitch" },
     "organismotv": { "isLive": false, "platform": "twitch" },
     "maarcao_": { "isLive": false, "platform": "twitch" }
   }
