@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T00:00:00.000Z",
+  "updatedAt": "2026-11-09T00:00:00.000Z",
   "streamers": [
     {
       "id": "maarcao_",
@@ -23,6 +23,20 @@
         {
           "platform": "twitch",
           "login": "durexlivexd"
+        }
+      ],
+      "badges": [
+        "rubinot_partner",
+        "own_store"
+      ]
+    },
+    {
+      "id": "utanos",
+      "displayName": "utanos",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "utanos"
         }
       ],
       "badges": [
@@ -1577,20 +1591,6 @@
         {
           "platform": "twitch",
           "login": "uaivenom"
-        }
-      ],
-      "badges": [
-        "rubinot_partner"
-      ],
-      "pool": true
-    },
-    {
-      "id": "utanos",
-      "displayName": "utanos",
-      "channels": [
-        {
-          "platform": "twitch",
-          "login": "utanos"
         }
       ],
       "badges": [
