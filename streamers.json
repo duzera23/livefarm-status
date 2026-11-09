@@ -31,17 +31,6 @@
       ]
     },
     {
-      "id": "organismotv",
-      "displayName": "organismotv",
-      "channels": [
-        {
-          "platform": "twitch",
-          "login": "organismotv"
-        }
-      ],
-      "badges": []
-    },
-    {
       "id": "rubini",
       "displayName": "rubini",
       "channels": [
