@@ -1,18 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T00:00:00.000Z",
+  "updatedAt": "2026-11-08T00:00:00.000Z",
   "streamers": [
-    {
-      "id": "tacamisera_boy",
-      "displayName": "tacamisera_boy",
-      "channels": [
-        {
-          "platform": "twitch",
-          "login": "tacamisera_boy"
-        }
-      ],
-      "badges": []
-    },
     {
       "id": "maarcao_",
       "displayName": "maarcao_",
@@ -143,20 +132,6 @@
         {
           "platform": "twitch",
           "login": "foxxlee"
-        }
-      ],
-      "badges": [
-        "rubinot_partner"
-      ],
-      "pool": true
-    },
-    {
-      "id": "joreltibiano",
-      "displayName": "joreltibiano",
-      "channels": [
-        {
-          "platform": "twitch",
-          "login": "joreltibiano"
         }
       ],
       "badges": [
@@ -311,20 +286,6 @@
         {
           "platform": "twitch",
           "login": "vovohzera"
-        }
-      ],
-      "badges": [
-        "rubinot_partner"
-      ],
-      "pool": true
-    },
-    {
-      "id": "tuufaotv",
-      "displayName": "tuufaotv",
-      "channels": [
-        {
-          "platform": "twitch",
-          "login": "tuufaotv"
         }
       ],
       "badges": [
@@ -683,20 +644,6 @@
       "pool": true
     },
     {
-      "id": "mestrezennn",
-      "displayName": "mestrezennn",
-      "channels": [
-        {
-          "platform": "twitch",
-          "login": "mestrezennn"
-        }
-      ],
-      "badges": [
-        "rubinot_partner"
-      ],
-      "pool": true
-    },
-    {
       "id": "minghetto",
       "displayName": "minghetto",
       "channels": [
@@ -795,20 +742,6 @@
       "pool": true
     },
     {
-      "id": "ronaldodaaula",
-      "displayName": "ronaldodaaula",
-      "channels": [
-        {
-          "platform": "twitch",
-          "login": "ronaldodaaula"
-        }
-      ],
-      "badges": [
-        "rubinot_partner"
-      ],
-      "pool": true
-    },
-    {
       "id": "seidzada",
       "displayName": "seidzada",
       "channels": [
@@ -871,20 +804,6 @@
         {
           "platform": "twitch",
           "login": "suldev_nerd"
-        }
-      ],
-      "badges": [
-        "rubinot_partner"
-      ],
-      "pool": true
-    },
-    {
-      "id": "teslat",
-      "displayName": "teslat",
-      "channels": [
-        {
-          "platform": "twitch",
-          "login": "teslat"
         }
       ],
       "badges": [
@@ -963,12 +882,740 @@
       "pool": true
     },
     {
-      "id": "zuzutv1",
-      "displayName": "zuzutv1",
+      "id": "cateroide",
+      "displayName": "cateroide",
       "channels": [
         {
           "platform": "twitch",
-          "login": "zuzutv1"
+          "login": "cateroide"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "pitucosj",
+      "displayName": "PitucoSJ",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "pitucosj"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "darkrjota021",
+      "displayName": "darkrjota021",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "darkrjota021"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "hardparadox",
+      "displayName": "HardParadox",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "hardparadox"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "guerreirotetra",
+      "displayName": "GuerreiroTetra",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "guerreirotetra"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "moacyxd",
+      "displayName": "Moacyxd",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "moacyxd"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "formigadiez",
+      "displayName": "FormigaDiez",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "formigadiez"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "dylanzz",
+      "displayName": "dylaNzz",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "dylanzz"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "rebelijao",
+      "displayName": "RebeliJao",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "rebelijao"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "hayaq__",
+      "displayName": "HayaQ__",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "hayaq__"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "ragnarisbacksz",
+      "displayName": "ragnarisbacksz",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "ragnarisbacksz"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "raikess_",
+      "displayName": "Raikess_",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "raikess_"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "darthey",
+      "displayName": "Darthey",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "darthey"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "impwes",
+      "displayName": "impwes",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "impwes"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "andreteixas",
+      "displayName": "AndreTeixas",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "andreteixas"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "salo_vip157",
+      "displayName": "salo_vip157",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "salo_vip157"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "feehduenf",
+      "displayName": "feehduenf",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "feehduenf"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "deuruimcar4",
+      "displayName": "Deuruimcar4",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "deuruimcar4"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "taakyz",
+      "displayName": "taakyz",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "taakyz"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "casalszll",
+      "displayName": "CasalszLL",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "casalszll"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "vigor_uz",
+      "displayName": "Vigor_Uz",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "vigor_uz"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "7onim",
+      "displayName": "7onim",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "7onim"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "alapuxaa",
+      "displayName": "alapuxaa",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "alapuxaa"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "beltranctz",
+      "displayName": "beltranctz",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "beltranctz"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "benatti_tv",
+      "displayName": "benatti_tv",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "benatti_tv"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "buricio",
+      "displayName": "buricio",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "buricio"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "celeitee",
+      "displayName": "celeitee",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "celeitee"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "decozada",
+      "displayName": "decozada",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "decozada"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "dekulin",
+      "displayName": "dekulin",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "dekulin"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "dryzinfps",
+      "displayName": "dryzinfps",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "dryzinfps"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "fonaoo",
+      "displayName": "fonaoo",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "fonaoo"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "gansorp_",
+      "displayName": "gansorp_",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "gansorp_"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "isfercho",
+      "displayName": "isfercho",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "isfercho"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "lakinagre",
+      "displayName": "lakinagre",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "lakinagre"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "larinhafps_",
+      "displayName": "larinhafps_",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "larinhafps_"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "natanfcunha",
+      "displayName": "natanfcunha",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "natanfcunha"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "nofaxu",
+      "displayName": "nofaxu",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "nofaxu"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "noobziiinhoo",
+      "displayName": "noobziiinhoo",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "noobziiinhoo"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "ofamosodoidao",
+      "displayName": "ofamosodoidao",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "ofamosodoidao"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "phziin_stx",
+      "displayName": "phziin_stx",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "phziin_stx"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "princevidaloka",
+      "displayName": "princevidaloka",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "princevidaloka"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "quarentazord",
+      "displayName": "quarentazord",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "quarentazord"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "raynex",
+      "displayName": "raynex",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "raynex"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "rewpservices",
+      "displayName": "rewpservices",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "rewpservices"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "siodogmonk",
+      "displayName": "siodogmonk",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "siodogmonk"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "thedruwell",
+      "displayName": "thedruwell",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "thedruwell"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "thepiccoio",
+      "displayName": "thepiccoio",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "thepiccoio"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "tibiadecadadia",
+      "displayName": "tibiadecadadia",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "tibiadecadadia"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "tiodocafe",
+      "displayName": "tiodocafe",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "tiodocafe"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "trspugaoo",
+      "displayName": "trspugaoo",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "trspugaoo"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "uaivenom",
+      "displayName": "uaivenom",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "uaivenom"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "utanos",
+      "displayName": "utanos",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "utanos"
+        }
+      ],
+      "badges": [
+        "rubinot_partner"
+      ],
+      "pool": true
+    },
+    {
+      "id": "vovozinhovagal",
+      "displayName": "vovozinhovagal",
+      "channels": [
+        {
+          "platform": "twitch",
+          "login": "vovozinhovagal"
         }
       ],
       "badges": [

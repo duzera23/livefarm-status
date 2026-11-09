@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de Privacidade — LiveFarm</title>
+<style>
+  :root { color-scheme: light dark; --bg: #fff; --fg: #1c1b22; --muted: #5d5b6a; --accent: #7c5cff; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #0f0e14; --fg: #ececf1; --muted: #a09fb0; --accent: #a58bff; } }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 1.7rem; margin: 0 0 4px; }
+  h2 { font-size: 1.15rem; margin: 32px 0 8px; color: var(--accent); }
+  p, li { margin: 8px 0; }
+  .muted { color: var(--muted); }
+  code { font: 0.9em ui-monospace, Consolas, monospace; }
+</style>
+</head>
+<body>
+<main>
+<h1>Política de Privacidade — LiveFarm</h1>
+<p class="muted">Última atualização: 29 de outubro de 2026</p>
+
+<p>O LiveFarm é uma extensão de navegador (Chrome, Edge e Brave) que mantém abas de lives da Twitch abertas, com o som da aba silenciado e o player ligado, para os streamers que você escolher. Ela não é afiliada nem endossada pela Twitch nem pelo RubinOT.</p>
+<p>Esta política explica o que a extensão guarda, o que ela envia pela internet e o que ela não faz.</p>
+
+<h2>O que fica só no seu navegador</h2>
+<p>Tudo isto é guardado localmente pelo próprio navegador (<code>chrome.storage</code>) e nunca sai do seu computador:</p>
+<ul>
+<li>suas configurações (limite de abas, silenciar abas, intervalo de verificação, farm automático etc.);</li>
+<li>a lista de streamers que você ligou e a ordem de prioridade;</li>
+<li>as lives que você adicionou em <strong>Minhas Lives</strong> (o @ da Twitch de cada uma, se o farm está ligado e a ordem);</li>
+<li>o seu aceite do aviso de privacidade;</li>
+<li>o estado das abas que a extensão abriu (para fechar a aba certa quando a live acaba) e dos streamers que você fechou;</li>
+<li>cópias temporárias do catálogo de streamers e das fotos de perfil.</li>
+</ul>
+<p>Você pode apagar tudo removendo a extensão.</p>
+
+<h2>O que a extensão envia pela internet</h2>
+<p>Somente depois do seu aceite no primeiro uso, a extensão faz dois tipos de pedido, ambos do tipo "baixar um arquivo", sem enviar nenhuma informação sua no pedido (sem identificador, sem conta). A única exceção é opcional: se você adicionar canais em <strong>Minhas Lives</strong>, os @ dos canais que estão com o farm ligado vão no pedido de status (e, ao adicionar um canal novo, o @ dele, para confirmar que existe):</p>
+<ol>
+<li><strong>Catálogo de streamers</strong>: um arquivo JSON público, hospedado no GitHub Pages do projeto, com os streamers que o app conhece (inclusive os parceiros usados pelo farm automático).</li>
+<li><strong>Status das lives</strong>: um endpoint do projeto, em um Worker da Cloudflare, que consulta a API da Twitch e responde quem está ao vivo. O Worker não recebe nada da extensão além do pedido em si (e, se houver, os @ de Minhas Lives), não guarda dados de usuários e usa credenciais da Twitch que ficam só no servidor.</li>
+</ol>
+<p>Como em qualquer pedido pela internet, os servidores que respondem (GitHub e Cloudflare) enxergam o endereço IP e o tipo de navegador de quem pediu; o projeto não usa isso para identificar ninguém.</p>
+<p>As <strong>fotos de perfil</strong> dos canais são carregadas direto dos servidores de imagem da Twitch, sem enviar a página de origem (<code>no-referrer</code>).</p>
+
+<h2>O que a extensão faz na twitch.tv</h2>
+<p>Quando abre ou gerencia uma aba da Twitch, a extensão:</p>
+<ul>
+<li>abre a página do canal (<code>https://www.twitch.tv/&lt;canal&gt;</code>) como qualquer visita sua;</li>
+<li>usa um pequeno script na página para ver se o player está tocando ou mudo e, se preciso, apertar play ou ligar o som do player;</li>
+<li>silencia a aba do navegador (não o player da Twitch), se você deixou essa opção ligada.</li>
+</ul>
+<p>Ela <strong>não</strong> lê seu chat, suas mensagens, seus dados de conta, senhas ou cookies; <strong>não</strong> escreve no chat; <strong>não</strong> clica em nada além do controle do player. As abas abertas aparecem para a Twitch como visitas normais feitas por você (se você estiver logado, na sua conta).</p>
+
+<h2>O que a extensão não faz</h2>
+<ul>
+<li>Não coleta, vende nem compartilha dados pessoais.</li>
+<li>Não usa análise de uso (analytics), anúncios, rastreadores nem cookies próprios.</li>
+<li>Não executa código baixado da internet: todo o código vem dentro do pacote da extensão.</li>
+<li>Não lê seu histórico de navegação nem lê ou altera outros sites além de <code>www.twitch.tv</code>. O botão da lojinha de um streamer só abre o endereço da loja dele em uma nova aba, quando você clica.</li>
+</ul>
+
+<h2>Permissões</h2>
+<p>As permissões do navegador e para que cada uma serve estão listadas na página da extensão na loja. Resumindo: <code>storage</code> (guardar suas configurações), <code>alarms</code> (checar o status periodicamente), <code>scripting</code> e acesso a <code>www.twitch.tv</code> (controlar o player nas abas que a extensão abre).</p>
+
+<h2>Crianças</h2>
+<p>A extensão não é direcionada a crianças e não coleta dados de ninguém.</p>
+
+<h2>Mudanças</h2>
+<p>Se esta política mudar, a data acima será atualizada e a nova versão ficará neste mesmo endereço.</p>
+
+<h2>Contato</h2>
+<p>Dúvidas ou pedidos sobre privacidade: <strong>[SEU E-MAIL DE CONTATO]</strong></p>
+</main>
+</body>
+</html>
